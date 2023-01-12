@@ -8,8 +8,8 @@
 <h1 align="center">Hello 👋, I'm Ruchi Priya Kumari</h1>
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;Quick+learner;MERN+Developer;&right=true&width=400&height=50" >
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://thumbs.dreamstime.com/z/coding-power-hand-drawn-vector-illustration-cartoon-style-programmer-strong-minimalism-156396794.jpg">
-<p align="left"> <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="ruchipriya1009" /> </p>
+<img align="right" alt="coding" width="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+
 
 - 🌱 I’m currently learning **React Advance**
 
