@@ -16,6 +16,7 @@
 - 💬 Ask me about **HTML, CSS, JS, React.js, Redux**
 
 - 📫 How to reach me **ruchipriya1009@gmail.com**
+- check my portfolio:-**https://ruchipriya1009.github.io/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HBAAZ5mLPcv_Daynhb2z1N5yhDUG_Mpn/view?usp=sharing](https://drive.google.com/file/d/1HBAAZ5mLPcv_Daynhb2z1N5yhDUG_Mpn/view?usp=sharing)
 
