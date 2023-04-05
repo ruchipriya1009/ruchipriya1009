@@ -18,7 +18,13 @@
 - 📫 How to reach me **ruchipriya1009@gmail.com**
 - check my portfolio:-**https://ruchipriya1009.github.io/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HBAAZ5mLPcv_Daynhb2z1N5yhDUG_Mpn/view?usp=sharing](https://drive.google.com/file/d/1HBAAZ5mLPcv_Daynhb2z1N5yhDUG_Mpn/view?usp=sharing)
+
+<h3 align="left">📄 Know about my experiences :</h3>
+<p align="left">
+<a href="https://drive.google.com/file/d/1HBAAZ5mLPcv_Daynhb2z1N5yhDUG_Mpn/view?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruchi-priya-kumari-028593217/" height="30" width="40" /></a>
+</p>
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HBAAZ5mLPcv_Daynhb2z1N5yhDUG_Mpn/view?usp=sharing](https://drive.google.com/file/d/1HBAAZ5mLPcv_Daynhb2z1N5yhDUG_Mpn/view?usp=sharing)<img src="https://th.bing.com/th/id/OIP.LiJY569E17kjiLOZW2SdBwHaHP?w=170&h=180&c=7&r=0&o=5&pid=1.7">
 
 ## 🏆 GitHub Trophies
 <p align="center",margin-bottom="30px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchipriya1009" alt="ruchipriya1009" /></a> </p>
