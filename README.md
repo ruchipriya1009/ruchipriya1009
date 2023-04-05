@@ -17,11 +17,8 @@
 
 - 📫 How to reach me **ruchipriya1009@gmail.com**
 - check my portfolio:-**https://ruchipriya1009.github.io/**
+- 📄 Know about my experiences:- 
 
-
-
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HBAAZ5mLPcv_Daynhb2z1N5yhDUG_Mpn/view?usp=sharing](https://drive.google.com/file/d/1HBAAZ5mLPcv_Daynhb2z1N5yhDUG_Mpn/view?usp=sharing)<img src="https://th.bing.com/th/id/OIP.LiJY569E17kjiLOZW2SdBwHaHP?w=170&h=180&c=7&r=0&o=5&pid=1.7">
 
 ## 🏆 GitHub Trophies
 <p align="center",margin-bottom="30px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchipriya1009" alt="ruchipriya1009" /></a> </p>
@@ -45,7 +42,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ruchipriya1009&theme=dark&hide_border=false)<br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchipriya1009&show_icons=true&locale=en&layout=compact" alt="ruchipriya1009" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchipriya1009&theme=dark&hide_border=false" alt="ruchipriya1009" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchipriya1009&show_icons=true&locale=en" alt="ruchipriya1009" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchipriya1009&theme=dark&hide_border=false" alt="ruchipriya1009" /></p>
 
