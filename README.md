@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ruchipriya1009@gmail.com**
 - check my portfolio:-**https://ruchipriya1009.github.io/**
-- 📄 Know about my experiences:- <img src="https://th.bing.com/th/id/OIP.FkcZ8P2Qq8H3Pt2JDkuK_gHaFO?w=264&h=187&c=7&r=0&o=5&pid=1.7" height="30" width="50" />
+- 📄 Know about my experiences:-<a href="https://www.linkedin.com/in/ruchi-priya-kumari-028593217/" target="blank"> <img src="https://th.bing.com/th/id/OIP.FkcZ8P2Qq8H3Pt2JDkuK_gHaFO?w=264&h=187&c=7&r=0&o=5&pid=1.7" height="30" width="50" />
 
 
 ## 🏆 GitHub Trophies
